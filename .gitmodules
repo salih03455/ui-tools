@@ -1,3 +1,6 @@
 [submodule "src/library"]
 	path = src/library
 	url = https://github.com/salih03455/library.git
+[submodule "library"]
+	path = library
+	url = https://github.com/salih03455/library.git
